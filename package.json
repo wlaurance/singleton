@@ -1,7 +1,7 @@
 {
   "author": "Will S Laurance <w.laurance@gmail.com> (http://www.wlaurance.com)",
   "name": "singleton",
-  "description": "A singlton javascript class",
+  "description": "A singleton javascript class",
   "version": "0.0.1",
   "homepage": "https://github.com/wlaurane/singleton",
   "repository": {
