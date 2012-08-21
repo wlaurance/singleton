@@ -12,7 +12,10 @@
     "test": "make test"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha":"*"
+    , "should":"*"
+  },
   "optionalDependencies": {},
   "engines": {
     "node": "*"
