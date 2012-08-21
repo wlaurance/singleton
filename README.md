@@ -1,0 +1,4 @@
+singleton
+=========
+
+singleton java class
