@@ -3,7 +3,7 @@
   "name": "singleton",
   "description": "A singleton javascript class",
   "version": "0.0.3",
-  "homepage": "https://github.com/wlaurane/singleton",
+  "homepage": "https://github.com/wlaurance/singleton",
   "repository": {
     "url": "git@github.com:wlaurance/singleton.git"
   },
